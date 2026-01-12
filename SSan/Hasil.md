@@ -21,17 +21,17 @@
 
 ## Frontend
 ## 1. Login
-![Login](frontend/Login.png)
+![Login](Frontend/Login.png)
 
 ## 2. Register
-![Register](frontend/Registrasi.png)
+![Register](Frontend/Registrasi.png)
 
 ## 3. Halaman Home
-![Home](frontend/Home.png)
+![Home](Frontend/Home.png)
 ![Home](frontend/Home2.png)
 
 ## 4. Profil
-![Profile](frontend/Profile.png)
+![Profile](Frontend/Profile.png)
 
 ## Arsitektur
 ![Profile](arsitektur.png)
