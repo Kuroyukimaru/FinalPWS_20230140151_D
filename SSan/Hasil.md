@@ -1,37 +1,37 @@
 ## Backend
 ## 1. Login
-![Login](Backend/Login.png)
+![Login](backend/LoginP.png)
 
 ## 2. Register
-![Register](Backend/Register.png)
+![Register](backend/RegisterP.png)
 
 ## 3. Admin Get
-![Admin Get Users](Backend/Get.png)
+![Admin Get Users](backend/Get.png)
 
 ## 4. Admin Post
-![Admin Post Users](Backend/Post.png)
+![Admin Post Users](backend/Post.png)
 
 ## 5. Admin Put
-![Admin Put Users](Backend/Update.png)
+![Admin Put Users](backend/Update.png)
 
 ## 6. Admin Delete
-![Admin Delete Users](Backend/Delete.png)
+![Admin Delete Users](backend/DeleteP.png)
 
 
 
 ## Frontend
 ## 1. Login
-![Login](Frontend/Login.png)
+![Login](frontend/Login.png)
 
 ## 2. Register
-![Register](Frontend/Registrasi.png)
+![Register](frontend/Registrasi.png)
 
 ## 3. Halaman Home
-![Home](Frontend/Home.png)
-![Home](Frontend/Home2.png)
+![Home](frontend/Home.png)
+![Home](frontend/Home2.png)
 
 ## 4. Profil
-![Profile](Frontend/Profile.png)
+![Profile](frontend/Profile.png)
 
 ## Arsitektur
 ![Profile](arsitektur.png)
