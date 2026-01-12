@@ -28,7 +28,7 @@
 
 ## 3. Halaman Home
 ![Home](Frontend/Home.png)
-![Home](frontend/Home2.png)
+![Home](Frontend/Home2.png)
 
 ## 4. Profil
 ![Profile](Frontend/Profile.png)
